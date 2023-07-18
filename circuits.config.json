@@ -1,0 +1,14 @@
+[
+{
+  "name": "polycircuit",
+  "version": 2,
+  "protocol": "groth16",
+  "circuit": "polycircuit/circuit.circom",
+  "input": "polycircuit/input.json",
+  "wasm": "polycircuit/out/circuit.wasm",
+  "zkey": "polycircuit/out/polycircuit.zkey",
+  "vkey": "polycircuit/out/polycircuit.vkey",
+  "r1cs": "polycircuit/out/polycircuit.r1cs",
+  "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+}
+]
